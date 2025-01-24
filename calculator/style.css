@@ -1,0 +1,9 @@
+.body {
+    justify-content: center;
+    align-items: center;
+    background-color: chocolate;
+}
+
+#calculator {
+    width: 300px;
+}
