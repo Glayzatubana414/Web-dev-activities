@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color: coral;
+    margin: 20px;
+}
+
+container {
+    width: 400px;
+    padding: 20px;
+    margin-right: 0 auto;
+    box-shadow: 0 2px 5px rgba(46, 6, 30, 0.1);
+    border-radius: 3px;
+    background-color: peru;
+}
+
+input [type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-right: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: burlywood;
+    color: rgb(170, 75, 12);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#display {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 18px;
+}
